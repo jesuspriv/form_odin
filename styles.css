@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'norsefont';
-    src: url('/assets/Norse.otf') format('truetype');
+    src: url('./assets/Norse.otf') format('truetype');
 }
 
 *{
